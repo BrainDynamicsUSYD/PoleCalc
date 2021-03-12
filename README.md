@@ -5,7 +5,12 @@ This documentation helps you use the code to plot the analytical figures plotted
 
 Installation:
 -	To run this code, you need Matlab to be installed.
--	Download the eigenmodes.mat file together with the other Matlab scripts.
+-	Download the Matlab scripts.
+
+Requirements:
+
+- This code requires a file containing the eigenmodes.
+- In this code it is "eigenmodes.mat"
 
 Steps:
 To plot FIG.11a:
